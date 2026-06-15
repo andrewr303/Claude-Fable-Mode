@@ -96,21 +96,7 @@ Ask Codex: `Use fable-mode for this task.`
 
 ### Any agent
 
-Just copy `AGENTS.md` and `CLAUDE.md` (or `templates/drop-in/`) and ask your agent to follow them by name.
-
-## Verification
-
-Validate the repo:
-
-```bash
-npm run validate
-```
-
-Create a release zip:
-
-```bash
-npm run pack:zip
-```
+Just copy `AGENTS.md` and `CLAUDE.md` into your existing AGENTS.md and CLAUDE.md files found in .claude or .codex folders, or replace them entirely. 
 
 ## Example handoff
 
@@ -143,10 +129,3 @@ Next action:
 - `docs/verification.md` — what to check before shipping
 - `docs/design-notes.md` — philosophy and tradeoffs
 
-## Contributing
-
-Issues and pull requests welcome. The bar: show the failure mode, propose the smallest fix, include a check that proves it works.
-
-## License
-
-MIT. See `LICENSE`.
