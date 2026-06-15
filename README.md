@@ -1,6 +1,24 @@
 # Fable Mode
 
+![Fable Mode workflow](fable-mode-workflow.png)
+
+> Until the government figures things out, this will have to do.
+
 An operating standard for coding agents: disciplined workflows that read the real codebase, verify with checkable steps, and hand off with clear facts.
+
+## Core Principles
+
+**Relentless Resourcefulness** — the goal is the result, not the attempt. Three genuinely different approaches before saying "blocked." A locked door is a routing problem, not a stop sign.
+
+**Verification Discipline** — done = proven, not plausible. Build passes → tests pass → it actually runs → the live result is checked. Every bug gets a regression test before the fix.
+
+**Finish the Loop** — never end on a plan, a promise, or a question you could answer yourself. If the last thing you wrote is future tense, you're not done.
+
+**Judgment & Taste** — one recommendation with reasoning, never a menu. Show the rejected alternative. Flag the blind spot. Give a confidence level.
+
+**Communication Clarity** — lead with the outcome. Complete sentences, not fragment chains. Define terms. Everything the reader needs lands in the final message.
+
+**Memory** — write durable facts down the moment you learn them. On long tasks, keep a ledger and re-read it instead of trusting recall.
 
 ## What it is
 
@@ -128,4 +146,3 @@ Next action:
 - `docs/customization.md` — how to tailor Fable Mode to your project
 - `docs/verification.md` — what to check before shipping
 - `docs/design-notes.md` — philosophy and tradeoffs
-
