@@ -38,6 +38,7 @@ It's not a model jailbreak or capability hack—it's public process discipline t
 .
 ├── CLAUDE.md              # Claude Code operating guide (drop into your project root)
 ├── AGENTS.md              # Generic agent standard (drop into your project root)
+├── Claude_System_Instructions.md # System instructions for Claude models running Fable Mode workflows
 ├── templates/drop-in/     # Clean copies of CLAUDE.md and AGENTS.md for new projects
 ├── claude/                # Claude Code agents, commands, and skills
 ├── codex-plugin/          # Codex plugin package
