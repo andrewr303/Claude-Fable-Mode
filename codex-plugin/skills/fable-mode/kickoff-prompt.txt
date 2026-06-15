@@ -1,0 +1,1 @@
+Use Fable Mode for this task. Inspect the real system before editing, create a concise stage map, delegate only independent work with return schemas, verify each stage with checks that can fail, inspect rendered/generated artifacts when relevant, ask approval before irreversible or high-risk actions, and hand off with verified vs not verified clearly separated.

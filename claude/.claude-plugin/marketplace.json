@@ -1,0 +1,9 @@
+{
+  "name": "Fable Mode for Claude Code",
+  "slug": "fable-mode-claude",
+  "summary": "A staged-execution agent and skill package for complex Claude Code work.",
+  "description": "Adds Fable Mode operating discipline: read-first codebase archaeology, living stage maps, contract-based subagents, failable verification, render/artifact checks, AI/RAG safety, and proof-backed handoff.",
+  "category": "Developer Tools",
+  "license": "MIT",
+  "keywords": ["claude-code", "agents", "skills", "verification", "fable-mode"]
+}

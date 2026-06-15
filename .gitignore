@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+.fable/worklogs/
+*.zip
+.env
+.env.*
+!.env.example

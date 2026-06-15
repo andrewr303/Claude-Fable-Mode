@@ -1,0 +1,38 @@
+{
+  "name": "fable-mode-codex",
+  "version": "1.0.0",
+  "description": "Fable Mode for Codex: staged execution, codebase archaeology, contract-based delegation, failable verification, render checks, AI/RAG safety, and proof-backed handoff.",
+  "author": {
+    "name": "Fable Mode Contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "skill",
+    "fable-mode",
+    "verification",
+    "agentic-coding",
+    "subagents",
+    "safety",
+    "rag",
+    "typescript"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Fable Mode for Codex",
+    "shortDescription": "Inspect first, stage complex work, verify with failable checks, and hand off with proof.",
+    "longDescription": "A model-agnostic operating discipline for Codex and coding agents. It adds a living stage map, proof matrix, hypothesis-driven debugging, rendered-output verification, safe subagent briefs, AI/RAG/tool guardrails, and skeptical final handoff. It improves process, not raw model capability.",
+    "developerName": "Fable Mode Contributors",
+    "category": "Developer Tools",
+    "brandColor": "#7C3AED",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use fable-mode for this task. Inspect first, create a stage map, define failable checks, keep a proof matrix, and disclose unverified work.",
+      "Use fable-mode hard mode for this repo change. Verify each stage with commands or artifacts and hand off with exact evidence.",
+      "Use fable-mode for this generated artifact. Create the real file, render/open it before completion, and name anything not verified."
+    ]
+  }
+}

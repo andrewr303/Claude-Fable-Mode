@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "fable-mode-codex",
+      "path": ".codex/plugins/fable-mode-codex"
+    }
+  ]
+}

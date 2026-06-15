@@ -1,0 +1,33 @@
+{
+  "name": "fable-mode-claude",
+  "version": "1.0.0",
+  "description": "Claude Code agent and skill package for Fable Mode: staged execution, subagent contracts, failable verification, artifact inspection, AI/RAG safety, and proof-backed handoff.",
+  "author": {
+    "name": "Fable Mode Contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skill",
+    "agent",
+    "fable-mode",
+    "verification",
+    "rag",
+    "subagents",
+    "artifact-checks"
+  ],
+  "skills": [
+    "./skills/fable-mode"
+  ],
+  "agents": [
+    "./agents/fable-systems-engineer.md",
+    "./agents/fable-verifier.md",
+    "./agents/fable-researcher.md",
+    "./agents/fable-security-reviewer.md",
+    "./agents/fable-domain-steward.md"
+  ],
+  "commands": [
+    "./commands/fable-mode.md"
+  ]
+}
